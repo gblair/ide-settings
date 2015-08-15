@@ -80,7 +80,11 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
+    <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
