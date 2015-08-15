@@ -593,9 +593,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value>
+        <option name="FOREGROUND" value="1f9d1a" />
+      </value>
+    </option>
     <option name="RUBY_GVAR">
       <value>
-        <option name="FOREGROUND" value="d0d0ff" />
+        <option name="FOREGROUND" value="4badff" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
