@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Set Namespace Prefix to Empty" />
+  </component>
+</application>
