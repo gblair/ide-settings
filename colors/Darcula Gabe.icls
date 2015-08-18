@@ -204,11 +204,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="769aa5" />
-      </value>
-    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -239,11 +234,6 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-      </value>
-    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -264,6 +254,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7832" />
+        <option name="BACKGROUND" value="111111" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -603,9 +594,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value>
+        <option name="FOREGROUND" value="1f9d1a" />
+      </value>
+    </option>
     <option name="RUBY_GVAR">
       <value>
-        <option name="FOREGROUND" value="d0d0ff" />
+        <option name="FOREGROUND" value="4badff" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
