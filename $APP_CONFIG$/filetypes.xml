@@ -6,8 +6,8 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="get-files" type="Ruby" />
       <mapping pattern="Puppetfile" type="Ruby" />
-      <mapping pattern="warewolf-server" type="Ruby" />
       <mapping pattern="get-packages" type="Ruby" />
+      <mapping pattern="warewolf-server" type="Ruby" />
     </extensionMap>
   </component>
 </application>
