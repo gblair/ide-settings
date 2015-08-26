@@ -2,7 +2,6 @@
   <component name="ProjectManager">
     <defaultProject version="4">
       <component name="CompilerConfiguration">
-        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -37,16 +36,18 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="GoToClass.includeLibraries" value="false" />
-        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-        <property name="GoToFile.includeJavaFiles" value="false" />
-        <property name="MemberChooser.sorted" value="false" />
-        <property name="MemberChooser.showClasses" value="true" />
-        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
@@ -69,6 +70,27 @@
           <envs />
           <method />
         </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
         <configuration default="true" type="Remote" factoryName="Remote">
           <option name="USE_SOCKET_TRANSPORT" value="true" />
           <option name="SERVER_MODE" value="false" />
@@ -77,22 +99,34 @@
           <option name="PORT" value="5005" />
           <method />
         </configuration>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>rbenv: 2.2.2</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.32413793" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
       </component>
     </defaultProject>
   </component>
