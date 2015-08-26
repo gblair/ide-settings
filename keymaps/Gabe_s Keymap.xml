@@ -61,6 +61,7 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift meta alt UP" />
   </action>
+  <action id="NewScratchFile" />
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="shift meta W" />
   </action>
