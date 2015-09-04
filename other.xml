@@ -118,9 +118,10 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="PhpRefactoringSettings">
-    <option name="RENAME_FIELD_ACCESSORS" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>

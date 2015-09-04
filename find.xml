@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'warewolf-server'" />
     <option name="defaultScopeName" value="Project 'warewolf-server'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'warewolf-server'" />
   </component>
 </application>
