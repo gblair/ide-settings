@@ -1,108 +1,108 @@
 <keymap version="1" name="Gabe's Keymap" parent="Mac OS X 10.5+">
   <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="Console.TableResult.NavigateAction">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="DSM.OpenInEditor">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Database.OpenDbStorageAction">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="DomCollectionControl.Edit">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditSource">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="meta END" />
-    <keyboard-shortcut first-keystroke="meta DOWN" />
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="EditorTextEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta END" />
-    <keyboard-shortcut first-keystroke="shift meta DOWN" />
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
   <action id="EditorTextStart">
-    <keyboard-shortcut first-keystroke="meta HOME" />
-    <keyboard-shortcut first-keystroke="meta UP" />
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorTextStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta HOME" />
-    <keyboard-shortcut first-keystroke="shift meta UP" />
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="ExternalSystem.OpenConfig">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt F7" />
-    <keyboard-shortcut first-keystroke="shift meta B" />
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift control B" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="HtmlTableCellNavigateDown" />
   <action id="HtmlTableCellNavigateUp" />
   <action id="Jdbc.OpenTableEditor">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="shift meta alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
   </action>
   <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift meta alt UP" />
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
   </action>
   <action id="NewScratchFile" />
   <action id="PhpListenDebugAction">
-    <keyboard-shortcut first-keystroke="shift meta W" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="RemoteHostView.EditSource">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift F6" />
-    <keyboard-shortcut first-keystroke="shift control R" />
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunClass" />
   <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="alt HOME" />
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="StepInto">
-    <keyboard-shortcut first-keystroke="F7" />
-    <keyboard-shortcut first-keystroke="control meta RIGHT" />
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="F8" />
-    <keyboard-shortcut first-keystroke="control meta DOWN" />
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta F2" />
-    <keyboard-shortcut first-keystroke="control C" />
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
 </keymap>
