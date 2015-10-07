@@ -8,6 +8,7 @@
       <mapping pattern="Puppetfile" type="Ruby" />
       <mapping pattern="get-packages" type="Ruby" />
       <mapping pattern="warewolf-server" type="Ruby" />
+      <mapping pattern="lint-js-paths" type="Ruby" />
     </extensionMap>
   </component>
 </application>
